@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# About
+My name is Laszlo and I am a self taught programmer.
+Programming is a big passion of mine and has continuously peeked my interest since learning my first "Hello World".
+Currently I am enrolled in a Data Science Skills Bootcamp where I learn Python for science, Data Analysing, Data Visualisation, Machine Learning, Natural Language Processing, Pandas, Seaborn, spAcy, Numpy and as part of the Skills Bootcamp I am looking for my first entry level position as a Data Engineer, Data Analyst, Software Developer or Web developer.
+In my spare time I also enjoy to explore game development and experiment with different game engines, frameworks features and techniques.
+
+# Contact
+[Linkedin](https://www.linkedin.com/in/laszlo-koosz-235654267/).
+
 <!--
 **Ficekem/Ficekem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
