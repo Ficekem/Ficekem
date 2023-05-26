@@ -1,13 +1,14 @@
 ### Hi there, my name is Laszlo 👋
 
-# About
-I am a self taught programmer.
-Programming is a big passion of mine and has continuously peeked my interest since learning my first "Hello World".
-Currently I am enrolled in a Data Science Skills Bootcamp where I learn Python for science, Data Analysing, Data Visualisation, Machine Learning, Natural Language Processing, Pandas, Seaborn, spAcy, Numpy and as part of the Skills Bootcamp I am looking for my first entry level position as a Data Engineer, Data Analyst, Software Developer or Web developer.
-In my spare time I also enjoy to explore game development and experiment with different game engines, frameworks features and techniques.
+# About me
+I am a self taught programmer that always eager to learn and work hard to achieve my goals. Programming is a big passion of mine and has continuously peeked my interest since learning my first "Hello World" in the Pascal programming language. Since I had the pleasure to dive into many programming languages including good old plain BASIC and many variants of it, C#, JavaScript, TypeScript, Lua, C, C++, PHP, Swift, Haxe. The most recent addition to this list is the Python programming language.
 
-# Contact
+# About this repository
+This repository contains the projects I've been working on for various intents and purposes and serve as a portfolio. At the moment there is not much to look at, I am currently in the process of building this repository.
+
+# Links
 [Linkedin](https://www.linkedin.com/in/laszlo-koosz-235654267/).
+[itch.io](https://gametemplates.itch.io)
 
 <!--
 **Ficekem/Ficekem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
