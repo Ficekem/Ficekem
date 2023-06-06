@@ -1,7 +1,7 @@
 ### Hi there, my name is Laszlo 👋
 
 # About me
-I am a self taught programmer that always eager to learn and work hard to achieve my goals. Programming is a big passion of mine and has continuously peeked my interest since learning my first "Hello World" in the Pascal programming language. Since I had the pleasure to dive into many programming languages including good old plain BASIC and many variants of it, C#, JavaScript, TypeScript, Lua, C, C++, PHP, Swift, Haxe. The most recent addition to this list is the Python programming language.
+I am a self taught programmer with a strong desire to learn and work hard to achieve my goals. Programming is a big passion of mine and has continuously peeked my interest since learning my first "Hello World" in the Pascal programming language. Since I had the pleasure to dive into many programming languages including good old plain BASIC and many variants of it, C#, JavaScript, TypeScript, Lua, C, C++, PHP, Swift, Haxe. The most recent addition to this list is the Python programming language. 
 
 # About this repository
 This repository contains the projects I've been working on for various intents and purposes and serve as a portfolio. At the moment there is not much to look at, I am currently in the process of building this repository.
